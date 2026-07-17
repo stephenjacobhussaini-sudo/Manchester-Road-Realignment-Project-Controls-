@@ -45,4 +45,4 @@ A summary of the project health derived from the data model:
 
 ---
 **Contact & Collaborations**  
-I am a UK Master’s graduate in Engineering Project Management specializing in Digital Project Controls and Construction Data Analytics. If you're looking to scale data-driven insights in infrastructure development, let's connect on [LinkedIn][((https://www.linkedin.com/in/stephen-hussaini-248746371/))]
+I am a UK Master’s graduate in Engineering Project Management specializing in Digital Project Controls and Construction Data Analytics. If you're looking to scale data-driven insights in infrastructure development, let's connect on [LinkedIn](https://www.linkedin.com/in/stephen-hussaini-248746371/)
