@@ -8,7 +8,7 @@ By combining an engineering project management framework with data analytics, th
 ---
 
 ## 📊 Live Dashboard Preview
-![Project Controls Dashboard Dashboard]((https://github.com/stephenjacobhussaini-sudo/Manchester-Road-Realignment-Project-Controls-/blob/main/Images/dashboard%20screenshot.JPG))
+![Project Controls Dashboard]((https://github.com/stephenjacobhussaini-sudo/Manchester-Road-Realignment-Project-Controls-/blob/main/Images/dashboard%20screenshot.JPG))
 
 ---
 
@@ -45,4 +45,4 @@ A summary of the project health derived from the data model:
 
 ---
 **Contact & Collaborations**  
-I am a UK Master’s graduate in Engineering Project Management specializing in Digital Project Controls and Construction Data Analytics. If you're looking to scale data-driven insights in infrastructure development, let's connect on [LinkedIn][([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/stephen-hussaini-248746371/))]
+I am a UK Master’s graduate in Engineering Project Management specializing in Digital Project Controls and Construction Data Analytics. If you're looking to scale data-driven insights in infrastructure development, let's connect on [LinkedIn][((https://www.linkedin.com/in/stephen-hussaini-248746371/))]
