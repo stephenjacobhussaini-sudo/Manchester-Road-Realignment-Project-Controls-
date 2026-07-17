@@ -9,7 +9,7 @@ By combining an engineering project management framework with data analytics, th
 
 ## 📊 Live Dashboard Preview
 *Replace this text with your screenshot once uploaded, or use the syntax below:*
-![Project Controls Dashboard Dashboard](images/dashboard_screenshot.png)
+![Project Controls Dashboard Dashboard](images/dashboard_screenshot.jpeg)
 
 ---
 
@@ -46,4 +46,4 @@ A summary of the project health derived from the data model:
 
 ---
 **Contact & Collaborations**  
-I am a UK Master’s graduate in Engineering Project Management specializing in Digital Project Controls and Construction Data Analytics. If you're looking to scale data-driven insights in infrastructure development, let's connect on [LinkedIn](YOUR_LINKEDIN_URL_HERE).
+I am a UK Master’s graduate in Engineering Project Management specializing in Digital Project Controls and Construction Data Analytics. If you're looking to scale data-driven insights in infrastructure development, let's connect on [LinkedIn][([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/stephen-hussaini-248746371/))]
