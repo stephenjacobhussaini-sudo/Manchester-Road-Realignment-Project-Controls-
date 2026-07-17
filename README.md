@@ -8,7 +8,7 @@ By combining an engineering project management framework with data analytics, th
 ---
 
 ## 📊 Live Dashboard Preview
-![Project Controls Dashboard]((https://github.com/stephenjacobhussaini-sudo/Manchester-Road-Realignment-Project-Controls-/blob/main/Images/dashboard%20screenshot.JPG))
+![Project Controls Dashboard](https://github.com/stephenjacobhussaini-sudo/Manchester-Road-Realignment-Project-Controls-/blob/main/Images/dashboard%20screenshot.JPG)
 
 ---
 
