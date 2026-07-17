@@ -8,8 +8,7 @@ By combining an engineering project management framework with data analytics, th
 ---
 
 ## 📊 Live Dashboard Preview
-*Replace this text with your screenshot once uploaded, or use the syntax below:*
-![Project Controls Dashboard Dashboard](images/dashboard_screenshot.jpeg)
+![Project Controls Dashboard Dashboard]((https://github.com/stephenjacobhussaini-sudo/Manchester-Road-Realignment-Project-Controls-/blob/main/Images/dashboard%20screenshot.JPG))
 
 ---
 
